@@ -1,0 +1,590 @@
+,id,city,country
+0,velobike-moscow,Moscow,RU
+1,baerum-bysykkel,Bærum,NO
+2,bicincitta-siena,Siena,IT
+3,cyclopolis-maroussi,Maroussi,GR
+4,cyclopolis-nafplio,Nafplio,GR
+5,bicincitta-parco-dei-colli-di-bergamo,Parco dei Colli di Bergamo,IT
+6,cyclopolis-aigialeia,Aigialeia,GR
+7,cyclopolis-marathon,Marathon,GR
+8,bicincitta-mantova,Mantova,IT
+9,cyclopolis-neasmyrni,Νea Smyrni,GR
+10,cyclopolis-moschatotavros,Μoschato-Tavros,GR
+11,cyclopolis-arxaiaolympia,Αrxaia Olympia,GR
+12,cyclopolis-kiato,Kιato,GR
+13,bicincitta-assemini,Assemini,IT
+14,cyclopolis-rhodes,Rhodes,GR
+15,cyclopolis-florina,Florina,GR
+16,bicincitta-tortoli,Tortolì,IT
+17,cyclopolis-limnos,Limnos,GR
+18,bicincitta-gaeta,Gaeta,IT
+19,bicincitta-borgarello,Borgarello,IT
+20,bicincitta-pizzighettone-formigara,Pizzighettone e Formigara,IT
+21,cork,Cork,IE
+22,limerick,Limerick,IE
+23,punpunbikeshare,Bangkok,TH
+24,galway,Galway,IE
+25,bicincitta-montecatini-terme,Montecatini Terme,IT
+26,bikeu-bra,Bydgoszcz,PL
+27,santander-cycles,London,GB
+28,we-cycle,"Aspen, CO",US
+29,bicincitta-carrara,Carrara,IT
+30,stadtrad-hamburg,Hamburg,DE
+31,tigullionbike,Sestri Levante - Lavagna,IT
+32,arbike,Arezzo,IT
+33,velobike,Astana,KZ
+34,velib,Paris,FR
+35,ascoli-piceno,Ascoli Piceno,IT
+36,bigi,Bergamo,IT
+37,girocleta,Girona,ES
+38,alba,Alba,IT
+39,bikemi,Milano,IT
+40,biella,Biella,IT
+41,chivasso,Chivasso,IT
+42,bizi,Zaragoza,ES
+43,ecobici,Cd de México,MX
+44,bici-in-busto,Busto Arsizio,IT
+45,velo-antwerpen,Antwerpen,BE
+46,cuneo,Cuneo,IT
+47,malmobybike,Malmö,SE
+48,bicimad,Madrid,ES
+49,easybike-didymoteicho,Didymoteicho,GR
+50,free-bike-sharing,Frosinone,IT
+51,easybike-glyfada,Glyfada,GR
+52,easybike-igoumenitsa,Igoumenitsa,GR
+53,lecce,Lecce,IT
+54,easybike-ioannina,Ioannina,GR
+55,easybike-karditsa,Karditsa,GR
+56,manerba-in-bici,Manerba del Garda,IT
+57,easybike-kavala,Kavala,GR
+58,easybike-kinouria,Kinouria,GR
+59,easybike-komotini,Komotini,GR
+60,easybike-patra,Patra,GR
+61,mar-e-bici,Marciana Marina,IT
+62,easybike-rethymno,Rethymno,GR
+63,easybike-samos,Samos,GR
+64,novara,Novara,IT
+65,easybike-nicosia,Nicosia,CY
+66,easybike-mani,Mani,GR
+67,easybike-irakleio,Irakleio,GR
+68,thessbike,Thessaloniki,GR
+69,athens-bikes,Athens,GR
+70,goodbike,Padova,IT
+71,ciclosampa,São Paulo,BR
+72,bicicorunha,A Coruña,ES
+73,bici-ferrol-terra,Ferrol - Narón,ES
+74,mimuovofe,Ferrara,IT
+75,bixi-montreal,"Montréal, QC",CA
+76,parma,Parma,IT
+77,bixi-toronto,"Toronto, ON",CA
+78,sobi-hamilton,"Hamilton, ON",CA
+79,pavia-in-bici,Pavia,IT
+80,bici-perugia,Perugia,IT
+81,austin,"Austin, TX",US
+82,bike-chattanooga,"Chattanooga, TN",US
+83,piacenza,Piacenza,IT
+84,pinerolo,Pinerolo,IT
+85,biketown,"Portland, OR",US
+86,reggio-emilia,Reggio Emilia,IT
+87,boulder,"Boulder, CO",US
+88,rimini,Rimini,IT
+89,broward,"Fort Lauderdale, FL",US
+90,bublr-bikes,"Milwaukee, WI",US
+91,reddy-bike-share,"Buffalo, NY",US
+92,capital-bikeshare,"Washington, DC",US
+93,charlotte,"Charlotte, NC",US
+94,saluzzo,Saluzzo,IT
+95,cincy-red-bike,"Cincinnati, OH",US
+96,savigliano,Savigliano,IT
+97,citi-bike-nyc,"New York, NY",US
+98,terni,Terni,IT
+99,cogo,"Columbus, OH",US
+100,denver,"Denver, CO",US
+101,divvy,"Chicago, IL",US
+102,tirano-in-bici,Tirano,IT
+103,elpaso,"El Paso, TX",US
+104,fortworth,"Fort Worth, TX",US
+105,udine,Udine,IT
+106,greenbikeslc,Salt Lake City,US
+107,omaha,"Omaha, NE",US
+108,houston,"Houston, TX",US
+109,blue-bikes,"Boston, MA",US
+110,ustica,Ustica,IT
+111,indego,"Philadelphia, PA",US
+112,indiana-pacers-bikeshare,"Indianapolis, IN",US
+113,bici-co,Como,IT
+114,madison,"Madison, WI",US
+115,metro-bike-share,"Los Angeles, CA",US
+116,nice-ride,"Minneapolis, MN",US
+117,speziainbici,La Spezia,IT
+118,sanantonio,"San Antonio, TX",US
+119,venezia,Venezia,IT
+120,sobi-long-beach,"Long Beach, NY",US
+121,to-bike,Torino,IT
+122,relay-atlanta,"Atlanta, GA",US
+123,bikerecife,Recife,BR
+124,bikesampa,São Paulo,BR
+125,bikerio,Rio de Janeiro,BR
+126,bikesalvador,Salvador,BR
+127,bikepoa,Porto Alegre,BR
+128,mibici-guadalajara,Guadalajara,MX
+129,libelo,Valence,FR
+130,bikesantiago,Santiago,CL
+131,oslo-bysykkel,Oslo,NO
+132,bergen-bysykkel,Bergen,NO
+133,trondheim-bysykkel,Trondheim,NO
+134,le-velo-star,Rennes,FR
+135,v3-bordeaux,Bordeaux,FR
+136,vlille,Lille,FR
+137,idecycle,Pau,FR
+138,ciclopi,Pisa,IT
+139,muybici,Murcia,ES
+140,vaibike,Vilagarcía de Arousa,ES
+141,cagliari,Cagliari,IT
+142,ecobici-buenos-aires,Buenos Aires,AR
+143,gira,Lisbon,PT
+144,gimme-bike,Varese,IT
+145,velo,Toulouse,FR
+146,veloh,Luxembourg,LU
+147,valenbisi,Valencia,ES
+148,sellero,Sellero,IT
+149,lundahoj,Lund,SE
+150,ugento,Ugento,IT
+151,tusbic,Santander,ES
+152,velam,Amiens,FR
+153,bysykkel-lillestrom,Lillestrøm,NO
+154,velocite-mulhouse,Mulhouse,FR
+155,prata-camportaccio,Prata Camportaccio,IT
+156,velov,Lyon,FR
+157,bicikelj,Ljubljana,SI
+158,civitavecchia,Civitavecchia,IT
+159,sevici,Sevilla,ES
+160,longanoinbici,Barcellona Pozzo di Gotto,IT
+161,li-bia-velo,Namur,BE
+162,velostanlib,Nancy,FR
+163,cristolib,Créteil,FR
+164,villo,Bruxelles,BE
+165,cassano-d-adda,Cassano d'Adda,IT
+166,velo2,Cergy,FR
+167,vilnius-cyclocity,Vilnius,LT
+168,toyama-cyclocity,富山市,JP
+169,bianzone-in-bici,Bianzone,IT
+170,le-velo,Marseille,FR
+171,bicloo,Nantes,FR
+172,velocite-besancon,Besançon,FR
+173,rietinbici,Rieti,IT
+174,dublinbikes,Dublin,IE
+175,bicipalma,Palma,ES
+176,adcb-bikeshare,Abu Dhabi,AE
+177,castellucchio,Castellucchio,IT
+178,velobleu,Nice,FR
+179,notoinbici,Noto,IT
+180,enna,Enna,IT
+181,pordenone,Pordenone,IT
+182,vel-in,Calais,FR
+183,carbonia,Carbonia,IT
+184,clujbike,Cluj-Napoca,RO
+185,integrabike,Sorocaba,BR
+186,scegli-in-bici,Cremona,IT
+187,rivibike,São Lourenço,BR
+188,e-motion-trento,Trento,IT
+189,dukebike,Ipaússu,BR
+190,bicing,Barcelona,ES
+191,baksi-antalya,Antalya,TR
+192,baksi-bisim,Izmir,TR
+193,e-motion-rovereto,Rovereto,IT
+194,baksi-istanbul,Istanbul,TR
+195,baksi-kobis,Kocaeli,TR
+196,citybikes-helsinki,Helsinki,FI
+197,monopoli-bike,Monopoli,IT
+198,foli,Turku,FI
+199,bicimia,Brescia,IT
+200,telofun,"Tel Aviv-Yaffo, Giv'atayim, Ramat-Gan",IL
+201,andria,Andria,IT
+202,whitebikes,Bratislava,SK
+203,slovnaft-bajk,Bratislava,SK
+204,cykl,Wageningen,NL
+205,bicyklezadobreskutky,Prešov,SK
+206,socialbicycles-wavelo,Kraków,PL
+207,bicinquartucciu,Quartucciu,IT
+208,encicla,Medellin,CO
+209,olbia-bike,Olbia,IT
+210,mobibikes,Vancouver,CA
+211,savona,Savona,IT
+212,c-velo,Clermont-Ferrand,FR
+213,velivert,Saint-Étienne,FR
+214,brindisi,Brindisi,IT
+215,velopop,Avignon,FR
+216,batumvelo,Batumi,GE
+217,tradate,Tradate,IT
+218,bikebh,Belo Horizonte,BR
+219,bikepetrolina,Petrolina,BR
+220,jesinbici,Jesi,IT
+221,nbici,Pamplona,ES
+222,bikebrasilia,Brasília,BR
+223,debikegoiania,Goiânia,BR
+224,treviso,Treviso,IT
+225,bicicletar,Fortaleza,BR
+226,cajubike,Aracajú,BR
+227,bikebelem,Belém,BR
+228,sondrio,Sondrio,IT
+229,bikesantos,Santos,BR
+230,vercelli,Vercelli,IT
+231,portofino-park-and-bike,Santa Margherita Ligure - Portofino - Camogli,IT
+232,mibicitubici,Rosario,AR
+233,meglio-in-bici,Cernusco sul Naviglio - Pioltello - Carugate,IT
+234,desmoines,"Des Moines, IA",US
+235,ossola,Santa Maria Maggiore - Malesco - Villette,IT
+236,greenville,"Greenville, SC",US
+237,bicincitta-mezzolombardo,Mezzolombardo,IT
+238,bicincitta-scafati,Scafati,IT
+239,bicincitta-livorno,Livorno,IT
+240,bicincitta-forli,Forlì,IT
+241,bicincitta-rivarolo-canavese,Rivarolo Canavese,IT
+242,bicincitta-monserrato,Monserrato,IT
+243,bicincitta-mezzocorona,Mezzocorona,IT
+244,bicincitta-san-lazzaro-di-savena,San Lazzaro di Savena,IT
+245,bicincitta-san-teodoro,San Teodoro,IT
+246,bicincitta-parco-molentargius-saline,Parco Naturale Molentargius - Saline,IT
+247,parkinbici,Parco Nazionale del Gargano,IT
+248,bicincitta-gallipoli,Gallipoli,IT
+249,bicincitta-castel-guelfo-the-style-outlets,Castel Guelfo di Bologna,IT
+250,bicincitta-san-michele-alladige,San Michele All'adige,IT
+251,bicincitta-modena,Modena,IT
+252,bicincitta-brancaleone,Brancaleone,IT
+253,bicincitta-scandiano,Scandiano,IT
+254,bicincitta-elmas,Elmas,IT
+255,bicincitta-tivat,TV,ME
+256,bicincitta-acquaviva-delle-fonti,Acquaviva delle fonti,IT
+257,we-love-bike,Lodi,IT
+258,bicincitta-acquarica-del-capo,Acquarica del Capo,IT
+259,bicincitta-vicolungo-the-style-outlets,Vicolungo,IT
+260,bicincitta-porto-torres,Porto Torres,IT
+261,bicincitta-cisterna-di-latina,Cisterna di Latina,IT
+262,bicincitta-casaletto-spartano,Casaletto Spartano,IT
+263,bicincitta-selargius,Selargius,IT
+264,bicincitta-monza,Monza,IT
+265,bicincitta-morigerati,Morigerati,IT
+266,bicincitta-san-donato-milanese,San Donato Milanese,IT
+267,bicincitta-ente-parco-del-circeo,Parco Nazionale del Circeo,IT
+268,bicincitta-cesena,Cesena,IT
+269,lecco,Lecco,IT
+270,bicincitta-alghero,Alghero,IT
+271,bicincitta-san-giovanni-in-persiceto,San Giovanni in Persiceto,IT
+272,bicincitta-ente-parco-san-rossore,Parco naturale Migliarino San Rossore Massaciuccoli,IT
+273,bicincitta-treviglio,Treviglio,IT
+274,bicincitta-lavis,Lavis,IT
+275,bicincitta-ente-parco-di-montemarcello-magra,Ente Parco Montemarcello Magra,IT
+276,bicischio,Schio,IT
+277,bicincitta-imola,Imola,IT
+278,nextbike-leipzig,Leipzig,DE
+279,nextbike-wiesbaden,Wiesbaden,DE
+280,visa-frankfurt,Frankfurt,DE
+281,kvb-rad-koln,Köln,DE
+282,facherrad-karlsruhe,Karlsruhe,DE
+283,burgenland-neusiedler-see,Neusiedler See,AT
+284,nextbike-dusseldorf,Düsseldorf,DE
+285,nextbike-stpolten,St.Pölten,AT
+286,nextbike-modling,Mödling,AT
+287,nextbike-sursee,Sursee,CH
+288,nextbike-luzern,Luzern,CH
+289,sixt-riga,Rīga,LV
+290,metropolradruhr-dortmund,Dortmund,DE
+291,metropolradruhr-bochum,Bochum,DE
+292,metropolradruhr-bottrop,Bottrop,DE
+293,metropolradruhr-duisburg,Duisburg,DE
+294,metropolradruhr-essen,Essen,DE
+295,metropolradruhr-gelsenkirchen,Gelsenkirchen,DE
+296,metropolradruhr-hamm,Hamm,DE
+297,metropolradruhr-herne,Herne,DE
+298,metropolradruhr-mulheim-adr,Mülheim a.d.R.,DE
+299,metropolradruhr-oberhausen,Oberhausen,DE
+300,nextbike-wachau,Wachau,AT
+301,nextbike-tulln,Tulln,AT
+302,nextbike-thermenregion,Thermenregion,AT
+303,wrm-wroclaw,Wrocław,PL
+304,nextbike-offenburg,Offenburg,DE
+305,nextbike-wrneustadt,Wr.Neustadt,AT
+306,nextbike-potsdam,Potsdam,DE
+307,nextbike-gutersloh,Gütersloh,DE
+308,nextbike-10vorwien,10vorWien,AT
+309,usedomrad-usedom,Usedom,DE
+310,nextbike-norderstedt,Norderstedt,DE
+311,swa-rad-augsburg,Augsburg,DE
+312,nextbike-limassol,Limassol,CY
+313,nextbike-christchurch,Christchurch,NZ
+314,vrn-heidelberg,Heidelberg,DE
+315,vrn-mannheim,Mannheim,DE
+316,stadtrad-innsbruck,Innsbruck,AT
+317,nextbike-nicosia,Nicosia,CY
+318,nextbike-hollabrunn,Hollabrunn,AT
+319,nextbike-wienerwald,WienerWald,AT
+320,nextbike-zagreb,Zagreb,HR
+321,nextbike-glasgow,Glasgow,GB
+322,belfastbikes-belfast,Belfast,GB
+323,nextbike-stirling,Stirling,GB
+324,grad-sibenik-sibenik,Šibenik,HR
+325,lrm-lublin-lublin,Lublin,PL
+326,vrn-ludwigshafen,Ludwigshafen,DE
+327,vrn-speyer,Speyer,DE
+328,nextbike-lviv,Lviv,UA
+329,nextbike-wurzburg,Würzburg,DE
+330,nextbike-serfaus,Serfaus,AT
+331,nextbike-malta,Malta,MT
+332,grad-karlovac-karlovac,Karlovac,HR
+333,grad-slavonski-brod-slavonski-brod,Slavonski Brod,HR
+334,santander-cycles-mk-milton-keynes,Milton Keynes,GB
+335,nextbike-hergiswil,Hergiswil,CH
+336,grad-makarska-makarska,Makarska,HR
+337,opcina-brinje-brinje,Brinje,HR
+338,grad-zadar-zadar,Zadar,HR
+339,vrn-bensheim,Bensheim,DE
+340,grad-ivanic-grad-ivanic-grad,Ivanic Grad,HR
+341,nextbike-sarajevo,Sarajevo,BA
+342,co-bikes-exeter,Exeter,GB
+343,nextbike-auckland-waterfront,Auckland Waterfront,NZ
+344,nextbike-berlin,Berlin,DE
+345,wk-bike-bremen-bremen,Bremen,DE
+346,vrn-worms,Worms,DE
+347,nextbike-stans,Stans,CH
+348,nextbike-stansstad,Stansstad,CH
+349,nextbike-horw,Horw,CH
+350,vrn-burstadt,Bürstadt,DE
+351,nextbike-gross-enzersdorf,Groß Enzersdorf,AT
+352,nextbike-klagenfurt,Klagenfurt,AT
+353,vrn-kaiserslautern,Kaiserslautern,DE
+354,sitycleta-las-palmas-las-palmas-de-gran-canaria,Las Palmas de Gran Canaria,ES
+355,grad-velika-gorica-velika-gorica,Velika Gorica,HR
+356,grad-sisak-sisak,Sisak,HR
+357,grad-metkovic-metkovic,Metković,HR
+358,jastrebarsko-jastrebarsko,Jastrebarsko,HR
+359,grad-drnis-drnis,Drniš,HR
+360,nextbike-tuzla,Tuzla,BA
+361,arriva-nitra,Nitra,SK
+362,nextbike-marburg,Marburg,DE
+363,bubi,Budapest,HU
+364,nextbike-russelsheim-am-main,Rüsselsheim am Main,DE
+365,vrn-heppenheim,Heppenheim,DE
+366,nextbike-kassel,Kassel,DE
+367,nextbike-sarnen,Sarnen,CH
+368,nextbike-wolfenschiessen,Wolfenschiessen,CH
+369,nextbike-oberdorf,Oberdorf,CH
+370,nextbike-giessen,Gießen,DE
+371,vrn-weinheim,Weinheim,DE
+372,nextbike-cardiff,Cardiff,GB
+373,vrn-hockenheim,Hockenheim,DE
+374,vrn-schwetzingen,Schwetzingen,DE
+375,nextbike-ennetmoos,Ennetmoos,CH
+376,vrn-eppelheim,Eppelheim,DE
+377,nextbike-university-of-surrey,Surrey,GB
+378,santander-cycles-swansea-swansea-university,Swansea,GB
+379,nextbike-erfurt,Erfurt,DE
+380,bl-bike-banja-luka,Banja Luka,BA
+381,lahr-pedelecs-lahr,Lahr,DE
+382,lviv-odessa,Odessa,UA
+383,santander-monchengladbach,Mönchengladbach,DE
+384,nomagobikes-celje,Celje,SI
+385,bilbon-bizi,Bilbao,ES
+386,nomagobikes-lasko,Laško,SI
+387,nextbike-lippstadt,Lippstadt,DE
+388,bikekia-zilina,Žilina,SK
+389,nextbike-vinnytsia,Vinnytsia,UA
+390,nextbike-bonn,Bonn,DE
+391,rowerowe-lodzkie-rl-koluszki,Koluszki,PL
+392,rowerowe-lodzkie-rl-lask,Łask,PL
+393,rowerowe-lodzkie-rl-lowicz,Łowicz,PL
+394,rowerowe-lodzkie-rl-pabianice,Pabianice,PL
+395,rowerowe-lodzkie-rl-sieradz,Sieradz,PL
+396,rowerowe-lodzkie-rl-skierniewice,Skierniewice,PL
+397,rowerowe-lodzkie-rl-zdunska-wola,Zduńska Wola,PL
+398,rowerowe-lodzkie-rl-zgierz,Zgierz,PL
+399,rowerowe-lodzkie-rl-kutno,Kutno,PL
+400,rowerowe-lodzkie-rl-lodz-rl,Łódź,PL
+401,frelo-freiburg,Freiburg,DE
+402,bicincitta-trieste,Trieste,IT
+403,mobibike-dresden,Dresden,DE
+404,velobike-murmansk,Murmansk,RU
+405,velobike-nizhniy-novgorod,Nizhniy Novgorod,RU
+406,nextbike-ivano-frankivsk,Ivano Frankivsk,UA
+407,almatybike,Almaty,KZ
+408,shymkentbike,Shymkent,KZ
+409,bay-wheels,"San Francisco Bay Area, CA",US
+410,veloceo,Vannes,FR
+411,monabike,Monaco,MC
+412,tlp-velo,"Tarbes, Lourdes",FR
+413,zebullo,Reims,FR
+414,velectin,Calais,FR
+415,rubis-velo,Bourg-en-Bresse,FR
+416,tanlib,Niort,FR
+417,marseillan,Marseillan,FR
+418,via-velo,Val d'Ille-Aubigné,FR
+419,velyceo,Saint-Nazaire,FR
+420,velocite-laon,Laon,FR
+421,velo-baulois,La Baule-Escoublac,FR
+422,le-marcel,Troyes,FR
+423,tempo-velo,Agen,FR
+424,semo,Communauté d'agglomération Seine-Eure,FR
+425,cyclovis,Soissons,FR
+426,chantrerie-captainbike,"La Chantrerie, Nantes",FR
+427,saclay-captainbike,Paris-Saclay,FR
+428,velok,Esch-sur-alzette,LU
+429,wienmobil-rad,Wien,AT
+430,bikeverona,Verona,IT
+431,sprottenflotte-kiel,Kiel,DE
+432,velomagg,Montpellier,FR
+433,rtc-bike-share,"Las Vegas, NV",US
+434,spokies,"Oklahoma, OK",US
+435,alsa-nextbike-leon,León,ES
+436,velhop,Strasbourg,FR
+437,optymo,Belfort,FR
+438,nextbike-prostejov,Prostejov,CZ
+439,nextbike-focsani,Focșani,RO
+440,grad-vukovar,Vukovar,HR
+441,grad-zapresic,Zaprešić,HR
+442,santander-brunel,Brunel University,GB
+443,pobiedziski-rower-gminny-pobiedziska,Pobiedziska,PL
+444,piotrkowski-rower-miejski-piotrkow-trybunalski,Piotrków Trybunalski,PL
+445,sap-walldorf,Walldorf,DE
+446,opcina-pitomaca,Pitomača,HR
+447,nomago-ljubljana,Ljubljana,SI
+448,system-roweru-gminnego-pielgrzymka,Pielgrzymka,PL
+449,rvk,RVK e-Bike,DE
+450,wupsi,Leverkusen,DE
+451,lovesharing-canary-islands-gran-canaria,Gran Canaria,ES
+452,lovesharing-canary-islands-lanzarote,Lanzarote,ES
+453,lovesharing-canary-islands-fuerteventura,Fuerteventura,ES
+454,vagrad,Nürnberg,DE
+455,grad-split,Split,HR
+456,grad-split-solin,Solin,HR
+457,grad-split-opcina-klis,Općina Klis,HR
+458,grad-split-opcina-hrvace,Općina Hrvace,HR
+459,grad-split-opcina-otok-dalmatinski,Općina Otok Dalmatinski,HR
+460,grad-split-sinj,Sinj,HR
+461,grad-split-podstrana,Podstrana,HR
+462,grad-split-trogir,Trogir,HR
+463,nextbike-ostrava,Ostrava,CZ
+464,nextbike-ostrava-hlucin,Hlučín,CZ
+465,nextbike-ostrava-vresina,Vřesina,CZ
+466,ibizi-ibiza-city,Ibiza-City,ES
+467,sprintrad,Hannover,DE
+468,komornicki-system-rowerowy-komorniki,Komorniki,PL
+469,nextbike-havirov,Havířov,CZ
+470,nextbike-berounsko,Berounsko,CZ
+471,ready4green-graben,Graben,DE
+472,oleski-rower-miejski-olesno,Olesno,PL
+473,styr-staell-goeteborg,Göteborg,SE
+474,nibelungen-bike-braunschweig,Braunschweig,DE
+475,nextbike-brno,Brno,CZ
+476,nextbike-brno-kurim,Kuřim,CZ
+477,nextbike-praha,Praha,CZ
+478,nextbike-praha-ricany,Říčany,CZ
+479,nextbike-olomouc,Olomouc,CZ
+480,nextbike-kladno,Kladno,CZ
+481,nextbike-opava,Opava,CZ
+482,nextbike-bielefeld,Bielefeld,DE
+483,yoy-san-luis-potosi,San Luis Potosi,MX
+484,yoy-san-luis-potosi-cancun,Cancún,MX
+485,bergisches-e-bike,Bergisches e-Bike,DE
+486,nextbike-pardubice,Pardubice,CZ
+487,nextbike-hradec-kralove,Hradec Králové,CZ
+488,nextbike-mladoboleslavsko-mlada-boleslav,Mladá Boleslav,CZ
+489,nextbike-mladoboleslavsko-mnichovo-hradiste,Mnichovo Hradiště,CZ
+490,oeynrad-bad-oeynhausen,Bad Oeynhausen,DE
+491,rsvg-bike,RSVG,DE
+492,citybikelinz,Linz,AT
+493,velopark-drobeta,Drobeta,RO
+494,nomago-gorica,Nova Gorica,SI
+495,saturn,Saturn,RO
+496,nextbike-frydek-mistek,Frýdek-Místek,CZ
+497,nextbike-uherske-hradiste,Uherské Hradiště,CZ
+498,nextbike-zlin,Zlín,CZ
+499,nextbike-krnov,Krnov,CZ
+500,eifel,Eifel e-Bike,DE
+501,nextbike-rychnovsko,Rychnovsko,CZ
+502,nextbike-pisek,Písek,CZ
+503,nextbike-jihlava,Jihlava,CZ
+504,nomago-zanaprej,Zagorje ob Savi,SI
+505,rower-powiatowy-sokolow-podlaski,Sokołów Podlaski,PL
+506,nextbike-bergamo,Bergamo,IT
+507,emobi-osijek,Osijek,HR
+508,arval-scandicci,Scandicci,IT
+509,nextbike-oldenburg,Oldenburg,DE
+510,nextbike-urdaibai,Urdaibai,ES
+511,mvrad-hq,MV-Rad,DE
+512,mvrad-anklam,Anklam,DE
+513,greifswald,Greifswald (StadtRad),DE
+514,nextbike-dvur-kralove,Dvůr Králové,CZ
+515,vvtregiorad-kufstein,Kufstein,AT
+516,vvtregiorad-ellmau,Ellmau,AT
+517,ski-rower-chelm,Chełm,PL
+518,nextbike-vrchlabi,Vrchlabí,CZ
+519,winsenrad,Winsen (Luhe),DE
+520,nomago-portoroz,Portorož,SI
+521,vrn-landau,Landau in der Pfalz,DE
+522,velocity-aachen,Aachen,DE
+523,avelo-quebec,Québec,CA
+524,acces-velo-saguenay,Saguenay,CA
+525,vilvolt,Epinal,FR
+526,velobaie,Saint-Brieuc,FR
+527,donkey-gh,Gent,BE
+528,mbajk,Maribor,SI
+529,publibike-zuerich,Zürich,CH
+530,publibike-sierre,Sierre,CH
+531,publibike-region-de-nyon,Nyon,CH
+532,publibike-bern,Bern,CH
+533,publibike-sottoceneri-ti,Lugano,CH
+534,publibike-fribourg,Fribourg,CH
+535,publibike-lausanne-morges,Lausanne,CH
+536,publibike-sion,Sion,CH
+537,lovelolibreservice,Rouen,FR
+538,waterford,Waterford,IE
+539,cyclopolis-loutraki,Loutraki,GR
+540,cyclopolis-igoumenitsa,Igoumenitsa,GR
+541,cyclopolis-edessa,Edessa,GR
+542,cyclopolis-syros,Syros,GR
+543,cyclopolis-chania,Chania,GR
+544,torvelo,Toruń,PL
+545,gijon,Gijón,ES
+546,auxrmlevelo,Auxerre,FR
+547,zena-by-bike,Genova,IT
+548,ambici-badalona,Badalona,ES
+549,ambici-cornella-de-llobregat,Cornellà de Llobregat,ES
+550,ambici-santa-coloma-de-gramenet,Santa Coloma de Gramenet,ES
+551,ambici-el-prat-de-llobregat,El Prat de Llobregat,ES
+552,ambici-castelldefels,Castelldefels,ES
+553,ambici-viladecans,Viladecans,ES
+554,ambici-gava,Gavà,ES
+555,ambici-esplugues-de-llobregat,Esplugues de Llobregat,ES
+556,ambici-sant-joan-despi,Sant Joan Despí,ES
+557,ambici-molins-de-rei,Molins de Rei,ES
+558,ambici-sant-just-desvern,Sant Just Desvern,ES
+559,ambici-sant-boi-de-llobregat,Sant Boi de Llobregat,ES
+560,heraeus-hanau,Hanau,DE
+561,stari-grad-hvar,Stari Grad,HR
+562,revgmobic,REVG,DE
+563,westbike-erkelenz,Erkelenz,DE
+564,westbike-geilenkirchen,Geilenkirchen,DE
+565,westbike-heinsberg,Heinsberg,DE
+566,westbike-hueckelhoven,Hückelhoven,DE
+567,westbike-wegberg,Wegberg,DE
+568,edeka-gruenheide-mark,Grünheide (Mark),DE
+569,nextbike-erlangen,Erlangen,DE
+570,nomago-gorizia,Gorizia,IT
+571,mvg-meinrad-nextbike-mainz,Mainz,DE
+572,veturilo-nextbike-warsaw,Warsaw,PL
+573,divia-velodi,Dijon,FR
+574,twisto-velo,Caen,FR
+575,veloplus-velotao,Orléans,FR
+576,velitul,Laval,FR
+577,citi-bike-miami,"Miami, FL",US
+578,bicincitta-costa-blu,Montesilvano,IT
+579,bicincitta-pista,Taranto,IT
+580,bicincitta-monteriggioni,Monteriggioni,IT
+581,bicincitta-massa,Massa,IT
+582,bikenmedio,Campoo de Enmedio,ES
+583,biciarousa,A Illa de Arousa,ES
+584,bealler,Aller,ES
+585,albabici,Albacete,ES
+586,bicialcazar,Alcázar de San Juan,ES
+587,tallinja-bike,Valletta - Malta - Gozo,MT
+588,tugo-bike-share,"Tucson, AZ",US
